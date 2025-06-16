@@ -5,7 +5,7 @@ import (
 	"log"
 	"log/slog"
 
-	flng_logsetup "github.com/cafpleon/filingo-logsetup/pkg/logsetup"
+	flng_logsetup "github.com/cafpleon/filingo-util-log/pkg/logsetup"
 )
 
 func Log_example_main() {
